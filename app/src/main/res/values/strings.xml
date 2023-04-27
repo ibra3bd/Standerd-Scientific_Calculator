@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Standard_Scientific_calc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="num_hint">Enter a number</string>
+    <string name="result_default">Result will be displayed here</string>
+    <string name="square_root">Square root</string>
+    <string name="exponentiation">Exponentiation</string>
+    <string name="logarithm">Logarithm</string>
+    <string name="result_format">Result: %s</string>
+    <string-array name="functions_array">
+        <item>@string/square_root</item>
+        <item>@string/exponentiation</item>
+        <item>@string/logarithm</item>
+    </string-array>
+</resources>
